@@ -2,7 +2,7 @@
 # Análise Comparativa do Problema da 3-Coloração: Guloso vs. Backtracking
 Este repositório contém um simulador interativo em Python para analisar os algoritmos Guloso (Coloração Sequencial) e Backtracking no Problema da 3-Coloração. Usando NetworkX e Matplotlib em grafos de Erdos-Renyi, o projeto avalia a eficiência e o limite de falhas de ambas as estratégias conforme a densidade das arestas varia em instâncias de 10 e 20 vértices.
 
-Utilizando as bibliotecas `NetworkX` e `Matplotlib` sob o modelo de grafos aleatórios de Erdos-Renyi, o projeto avalia o comportamento de ambas as estratégias variando a densidade de arestas em instâncias de 10 e 20 vértices.
+Utilizando as bibliotecas `NetworkX` e `Matplotlib` sob o modelo de grafos aleatórios de Erdos-Renyi, o projeto avalia o comportamento de ambas as estratégias variando a densidade de arestas em instâncias de vértices plotados pelo usuário.
 
 ---
 
